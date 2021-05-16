@@ -1,4 +1,8 @@
-#### Pinned
+### Hi there :octocat:
+
+Welcome to my GitHub profile!
+
+### My Apps
 
 <p align="center">
   <a href="https://github.com/jguddas/my-activity-dashboard">
@@ -15,4 +19,4 @@
   </a>
 </p>
 
-The pictures above are build with Figma and Inkscape. [🔗](https://www.figma.com/community/file/775789888359782610)
+The cards are build with Figma and Inkscape. [🔗](https://www.figma.com/community/file/775789888359782610)
